@@ -19,7 +19,7 @@ When a project is open source, that means anybody can view, use, modify, and dis
 
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
 
-To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
+**To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.**
 
 * Everybody tries the pie (use)
 * The pie is a hit! They ask you for the recipe, which you provide (view)
