@@ -9,3 +9,7 @@ we can make a website page out of this using github pages
 * Want to create content? https://github.com/match-stick-model/content
 * Submit an idea or apply for funding? https://github.com/match-stick-model/funding
 * Help with the website? https://github.com/match-stick-model/website
+
+Proof of concept 
+* Open Source Guides are a good example https://github.com/github/opensource.guide
+* Open Source Friday has goo guides we can emulate https://opensourcefriday.com/
