@@ -14,7 +14,7 @@ Proof of concept
 * Open Source Guides are a good example https://github.com/github/opensource.guide
 * Open Source Friday has goo guides we can emulate https://opensourcefriday.com/
 
-## [What does “open source” mean?](https://opensource.guide/how-to-contribute/)
+## What does “open source” mean? [link](https://opensource.guide/how-to-contribute/)
 
 When a project is open source, that means anybody can view, use, modify, and distribute your project for any purpose. These permissions are enforced through an open source license.
 
